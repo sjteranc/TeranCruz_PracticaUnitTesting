@@ -1,0 +1,110 @@
+C:\UnitTestPractice\BEPractice\bin\Debug\net9.0\appsettings.Development.json
+C:\UnitTestPractice\BEPractice\bin\Debug\net9.0\appsettings.json
+C:\UnitTestPractice\BEPractice\bin\Debug\net9.0\BEPractice.staticwebassets.endpoints.json
+C:\UnitTestPractice\BEPractice\bin\Debug\net9.0\BEPractice.exe
+C:\UnitTestPractice\BEPractice\bin\Debug\net9.0\BEPractice.deps.json
+C:\UnitTestPractice\BEPractice\bin\Debug\net9.0\BEPractice.runtimeconfig.json
+C:\UnitTestPractice\BEPractice\bin\Debug\net9.0\BEPractice.dll
+C:\UnitTestPractice\BEPractice\bin\Debug\net9.0\BEPractice.pdb
+C:\UnitTestPractice\BEPractice\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\UnitTestPractice\BEPractice\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\BEPractice.csproj.AssemblyReference.cache
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\BEPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\BEPractice.AssemblyInfoInputs.cache
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\BEPractice.AssemblyInfo.cs
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\BEPractice.csproj.CoreCompileInputs.cache
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\BEPractice.MvcApplicationPartsAssemblyInfo.cs
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\BEPractice.MvcApplicationPartsAssemblyInfo.cache
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\scopedcss\bundle\BEPractice.styles.css
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\staticwebassets.build.json
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\staticwebassets.development.json
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\staticwebassets\msbuild.BEPractice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\staticwebassets\msbuild.BEPractice.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\staticwebassets\msbuild.build.BEPractice.props
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BEPractice.props
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BEPractice.props
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\staticwebassets.pack.json
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\BEPractice.csproj.Up2Date
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\BEPractice.dll
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\refint\BEPractice.dll
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\BEPractice.pdb
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\BEPractice.genruntimeconfig.cache
+C:\UnitTestPractice\BEPractice\obj\Debug\net9.0\ref\BEPractice.dll
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\bin\Debug\net9.0\appsettings.Development.json
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\bin\Debug\net9.0\appsettings.json
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\bin\Debug\net9.0\BEPractice.staticwebassets.endpoints.json
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\bin\Debug\net9.0\BEPractice.exe
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\bin\Debug\net9.0\BEPractice.deps.json
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\bin\Debug\net9.0\BEPractice.runtimeconfig.json
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\bin\Debug\net9.0\BEPractice.dll
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\bin\Debug\net9.0\BEPractice.pdb
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\bin\Debug\net9.0\Microsoft.OpenApi.dll
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\BEPractice.csproj.AssemblyReference.cache
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\BEPractice.GeneratedMSBuildEditorConfig.editorconfig
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\BEPractice.AssemblyInfoInputs.cache
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\BEPractice.AssemblyInfo.cs
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\BEPractice.csproj.CoreCompileInputs.cache
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\BEPractice.MvcApplicationPartsAssemblyInfo.cs
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\BEPractice.MvcApplicationPartsAssemblyInfo.cache
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\BEPractice.sourcelink.json
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\scopedcss\bundle\BEPractice.styles.css
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\staticwebassets.build.json
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\staticwebassets.development.json
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\staticwebassets\msbuild.BEPractice.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\staticwebassets\msbuild.BEPractice.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\staticwebassets\msbuild.build.BEPractice.props
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BEPractice.props
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BEPractice.props
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\staticwebassets.pack.json
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\BEPractice.csproj.Up2Date
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\BEPractice.dll
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\refint\BEPractice.dll
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\BEPractice.pdb
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\BEPractice.genruntimeconfig.cache
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\obj\Debug\net9.0\ref\BEPractice.dll
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\bin\Debug\net9.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\Diplomado\Modulo2\Práctica Finak\practice-205\BEPractice\bin\Debug\net9.0\Newtonsoft.Json.dll
+F:\Diplomado\Modulo2\PF\BEPractice\bin\Debug\net9.0\appsettings.Development.json
+F:\Diplomado\Modulo2\PF\BEPractice\bin\Debug\net9.0\appsettings.json
+F:\Diplomado\Modulo2\PF\BEPractice\bin\Debug\net9.0\BEPractice.staticwebassets.endpoints.json
+F:\Diplomado\Modulo2\PF\BEPractice\bin\Debug\net9.0\BEPractice.exe
+F:\Diplomado\Modulo2\PF\BEPractice\bin\Debug\net9.0\BEPractice.deps.json
+F:\Diplomado\Modulo2\PF\BEPractice\bin\Debug\net9.0\BEPractice.runtimeconfig.json
+F:\Diplomado\Modulo2\PF\BEPractice\bin\Debug\net9.0\BEPractice.dll
+F:\Diplomado\Modulo2\PF\BEPractice\bin\Debug\net9.0\BEPractice.pdb
+F:\Diplomado\Modulo2\PF\BEPractice\bin\Debug\net9.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Diplomado\Modulo2\PF\BEPractice\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\Diplomado\Modulo2\PF\BEPractice\bin\Debug\net9.0\Microsoft.OpenApi.dll
+F:\Diplomado\Modulo2\PF\BEPractice\bin\Debug\net9.0\Newtonsoft.Json.dll
+F:\Diplomado\Modulo2\PF\BEPractice\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Diplomado\Modulo2\PF\BEPractice\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Diplomado\Modulo2\PF\BEPractice\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\BEPractice.csproj.AssemblyReference.cache
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\BEPractice.GeneratedMSBuildEditorConfig.editorconfig
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\BEPractice.AssemblyInfoInputs.cache
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\BEPractice.AssemblyInfo.cs
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\BEPractice.csproj.CoreCompileInputs.cache
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\BEPractice.MvcApplicationPartsAssemblyInfo.cs
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\BEPractice.MvcApplicationPartsAssemblyInfo.cache
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\scopedcss\bundle\BEPractice.styles.css
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\staticwebassets.build.json
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\staticwebassets.development.json
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\staticwebassets\msbuild.BEPractice.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\staticwebassets\msbuild.BEPractice.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\staticwebassets\msbuild.build.BEPractice.props
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BEPractice.props
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BEPractice.props
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\staticwebassets.pack.json
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\BEPractice.csproj.Up2Date
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\BEPractice.dll
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\refint\BEPractice.dll
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\BEPractice.pdb
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\BEPractice.genruntimeconfig.cache
+F:\Diplomado\Modulo2\PF\BEPractice\obj\Debug\net9.0\ref\BEPractice.dll
